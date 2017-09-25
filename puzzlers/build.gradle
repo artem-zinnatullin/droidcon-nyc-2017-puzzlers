@@ -1,0 +1,12 @@
+apply plugin: 'kotlin'
+
+// See dependencies.gradle in the root project directory.
+dependencies {
+    testCompile libraries.kotlinStd
+    testCompile libraries.rxJava
+    testCompile libraries.rxKotlin
+    testCompile libraries.gson
+
+    testCompile libraries.junit
+    testCompile libraries.mockito
+}
