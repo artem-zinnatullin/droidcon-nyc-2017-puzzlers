@@ -1,4 +1,4 @@
-![Puzzler Logo](https://github.com/lyft/droidcon-nyc-2017-puzzlers/blob/master/banner.png)
+![Puzzler Logo](banner.png)
 
 ## What is this
 
