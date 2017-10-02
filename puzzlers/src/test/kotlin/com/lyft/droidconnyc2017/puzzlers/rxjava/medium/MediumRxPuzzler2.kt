@@ -33,7 +33,7 @@ class MediumRxPuzzler2 {
 
     // What will be printed and why?
     @Test
-    fun `same puzzler?`() {
+    fun `same puzzler`() {
         val observer = object : DefaultObserver<Int>() {
             override fun onNext(t: Int) {
                 println("onNext $t")
