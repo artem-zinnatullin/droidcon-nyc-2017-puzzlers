@@ -29,7 +29,7 @@ class WthRxPuzzler1 {
 
     // What will be printed and why?
     @Test
-    fun `is there any difference 1?`() {
+    fun `is there any difference 1`() {
         val testObserver = TestObserver<String>()
 
         val inner = Observable
@@ -48,7 +48,7 @@ class WthRxPuzzler1 {
 
     // What will be printed and why?
     @Test
-    fun `is there any difference 2?`() {
+    fun `is there any difference 2`() {
         val testObserver = TestObserver<String>()
 
         val inner = Observable
